@@ -5,6 +5,8 @@ This is just normal text.
 
 To write text in **bold**, start and end the text in double asterisk.
 
+ to italicize any *text*, end and start the text in single asterisk mark.
+
 ### This is level threee heading.
 if you want to make a list:
 - manroop
@@ -14,7 +16,7 @@ if you want to make a list:
 To make a numberred list:
 1. Manroop
 2. Taran
-3. Jasjot
+
 
 1. Yash
 1. Abhay
